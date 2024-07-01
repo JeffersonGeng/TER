@@ -1,2 +1,2 @@
 # TER
-Code and modrl of our projet TER 116
+Code and model of our projet TER 116
